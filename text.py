@@ -1,1 +1,2 @@
-print("Hello world")
+x="kajal"
+print("Hello world"+x)
